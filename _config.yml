@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: LinspirerDemo
+description: LinspirerDemo
+meta_description: "Linspirer_Demo"
 
 markdown: kramdown
 highlighter: rouge
