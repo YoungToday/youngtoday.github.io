@@ -7,13 +7,13 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: ""
-domain_name: "127.0.0.1"
+domain_name: "youngtoday.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: ""
-author: "Your Name"
+author: "YoungToday"
 
 # Disqus config
 disqus-shortname: ""
