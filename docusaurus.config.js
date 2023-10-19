@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Linspirer Hunter',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -76,12 +76,12 @@ const config = {
             position: 'left',
             label: '使用教程',
           },
-         /* {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://github.com/YoungToday/youngtoday.github.io/releases/', label: '下载', position: 'left'},
           {
             href: 'https://github.com/ljlVink/LinspirerDemo',
             label: 'GitHub',
             position: 'right',
-          },*/
+          },
         ],
       },
       footer: {
