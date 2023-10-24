@@ -76,7 +76,7 @@ const config = {
             position: 'left',
             label: '使用教程',
           },
-          {to: 'https://github.com/YoungToday/youngtoday.github.io/releases/', label: '下载', position: 'left'},
+          {to: 'https://github.com/ljlVink/LinspirerDemo/releases', label: '下载', position: 'left'},
           {
             href: 'https://github.com/ljlVink/LinspirerDemo',
             label: 'GitHub',

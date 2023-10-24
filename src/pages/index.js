@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://github.com/YoungToday/youngtoday.github.io/releases/">
+            to="https://github.com/ljlVink/LinspirerDemo/releases">
             点击下载最新版本
           </Link>
         </div>
