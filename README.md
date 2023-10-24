@@ -4,4 +4,4 @@ LinspirerDemo Release Build
 
 1.Official site
 
-2.Release apks
+~~2.Release apks~~
